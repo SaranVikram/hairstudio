@@ -86,7 +86,7 @@ const Header = () => {
                       menu.children
                         ?.map(({ url }) => `${url}/`)
                         .includes(pathname)
-                        ? "active"
+                        ? "text-primary"
                         : ""
                     }`}
                   >
@@ -118,7 +118,7 @@ const Header = () => {
                     href={menu.url}
                     className={`nav-link block ${
                       (pathname === `${menu.url}/` || pathname === menu.url) &&
-                      "active"
+                      "text-primary"
                     }`}
                   >
                     {menu.name}

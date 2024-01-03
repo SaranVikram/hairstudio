@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
-  image: "/images/banner.png"
+  title: "Say Goodbye to Hair Loss, Hello to Full, Natural Hair – Non Surgical Hair Replacement!"
+  content: "Revolutionize Your Look with Rock'z Hair Bonding Studio in Vijayawada!"
+  image: "/images/hero-section-1.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Book an Appointment"
     link: "https://github.com/zeon-studio/nextplate"
 
 # Features
