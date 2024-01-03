@@ -11,28 +11,20 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
-          "url": "/contact"
+          "name": "Hair Bonding",
+          "url": "/services/hair-bonding"
         },
         {
-          "name": "Blog",
-          "url": "/blog"
+          "name": "Hair Clip System",
+          "url": "/services/hair-clip-system"
         },
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Hair Weaving",
+          "url": "/services/hair-weaving"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
+          "name": "Hair Building Fibers",
+          "url": "/services/hair-building-fibers"
         }
       ]
     },

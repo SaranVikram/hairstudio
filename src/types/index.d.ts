@@ -73,3 +73,15 @@ export type Button = {
   label: string;
   link: string;
 };
+
+export type Service = {
+  slug: string; // Unique identifier for the service, usually derived from the filename
+  frontmatter: {
+    title: string; // Title of the service
+    meta_title: string; // SEO meta title
+    description: string; // Short description of the service for SEO
+    image: string; // URL or path to the image representing the service
+    // Add any other fields that you have in your markdown frontmatter
+  };
+  content: string; // The actual content of the markdown file
+};
