@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "Say Goodbye to Hair Loss, Hello to Full, Natural Hair – Non Surgical Hair Replacement!"
-  content: "Revolutionize Your Look with Rock'z Hair Bonding Studio in Vijayawada!"
+  content: "Revolutionize Your Look with Rock'z Hair Bonding Studio!"
   image: "/images/hero-section-1.png"
   button:
     enable: true
-    label: "Book an Appointment"
-    link: "https://github.com/zeon-studio/nextplate"
+    label: "Contact Us"
+    link: "/contact"
 
 # Features
 features:

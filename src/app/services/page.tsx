@@ -4,7 +4,7 @@ import SeoMeta from "@/partials/SeoMeta";
 import { RegularPage } from "@/types";
 
 const Services = () => {
-  const data: RegularPage = getListPage("services.md");
+  const data: RegularPage = getListPage("services/_index.md");
   const { frontmatter, content } = data;
 
   return (

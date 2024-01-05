@@ -4,6 +4,7 @@
       "theme_color": {
         "primary": "#8B5FBF",
         "secondary": "#D6C6E1",
+        "third": "#9A73B5",
         "body": "#F5F3F7",
         "border": "#eaeaea",
         "theme_light": "#f6f6f6",

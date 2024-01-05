@@ -1,7 +1,6 @@
 "use client";
 
 import Logo from "@/components/Logo";
-import ThemeSwitcher from "@/components/ThemeSwitcher";
 import config from "@/config/config.json";
 import menu from "@/config/menu.json";
 import Link from "next/link";
@@ -148,15 +147,12 @@ const Header = () => {
               <IoSearch />
             </span>
           )}
-          <ThemeSwitcher className="mr-5" />
-          {navigation_button.enable && (
-            <Link
-              className="btn btn-outline-primary btn-sm hidden lg:inline-block"
-              href={navigation_button.link}
-            >
-              {navigation_button.label}
-            </Link>
-          )}
+          <Link
+            className="bg-gradient-to-r from-primary to-third hidden md:block border rounded-[70px] py-3 px-8  btn btn-primary"
+            href="/contact"
+          >
+            Contact Us
+          </Link>
         </div>
       </nav>
     </header>
