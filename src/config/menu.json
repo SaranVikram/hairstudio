@@ -11,8 +11,8 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Hair Bonding",
-          "url": "/services/hair-bonding"
+          "name": "Hair Transplant",
+          "url": "/services/hair-transplant"
         },
         {
           "name": "Hair Clip System",
@@ -24,7 +24,7 @@
         },
         {
           "name": "Hair Building Fibers",
-          "url": "/services/hair-building-fibers"
+          "url": "/services/hair-fibers"
         }
       ]
     },
@@ -39,8 +39,8 @@
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Sitemap",
+      "url": "/sitemap"
     },
     {
       "name": "Privacy Policy",

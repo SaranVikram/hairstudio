@@ -148,10 +148,10 @@ const Header = () => {
             </span>
           )}
           <Link
-            className="bg-gradient-to-r from-primary to-third hidden md:block border rounded-[70px] py-3 px-8  btn btn-primary"
+            className="bg-gradient-to-r from-primary to-third hidden lg:block border rounded-[70px] py-3 px-8  btn btn-primary"
             href="/contact"
           >
-            Contact Us
+            Book An Appointment
           </Link>
         </div>
       </nav>

@@ -1,27 +1,27 @@
 ---
 enable: true
-title: "What Users Are Saying About Nextplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Nextplate."
+title: "Real Feedback from Our Valued Clients: Discover Our Google Reviews"
+description: "Explore Authentic Experiences Shared by Our Customers on Google - Your Trust, Our Commitment"
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
+  - name: "Lakshmi Prasad"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Good hair patch service at Rock'z. Looks real. Staff nice and helpful. Very happy with it."
 
-  - name: "Marvin McKinney"
+  - name: "Venkat Reddy"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Got wig from Rock'z. It's very nice. Fits well. Staff are kind. Thank you so much."
 
-  - name: "Marvin McKinney"
+  - name: "Anjali Rao"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Very happy with hair wig from Rock'z. Looks natural. Service good and people are nice."
 
-  - name: "Marvin McKinney"
+  - name: "Surya Narayana"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Rock'z Hair Studio did great job. My hair patch is good. Feels confident. Staff very friendly."
 ---

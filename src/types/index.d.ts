@@ -85,3 +85,12 @@ export type Service = {
   };
   content: string; // The actual content of the markdown file
 };
+
+export type Branch = {
+  location: string;
+  phone: string;
+  address: string;
+  googleMaps: string;
+  facebook: string;
+  instagram: string;
+};

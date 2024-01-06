@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Next?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Nextplate and Next. Build lightning-fast static sites with ease and flexibility."
+title: "Transform Your Look Today with Rock'z Hair Studio!"
+image: "/images/hero-section.png"
+description: "Step into Rock'z Hair Studio for bespoke hair patches and wigs. Let our experts craft your perfect look. Book now and transform your style!"
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/nextplate"
+  label: "Book An Appointment"
+  link: "/contact"
 ---

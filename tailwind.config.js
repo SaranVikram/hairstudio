@@ -67,6 +67,10 @@ module.exports = {
           "theme-dark": theme.colors.darkmode.theme_color.theme_dark,
         },
       },
+      minHeight: {
+        "25vh": "25vh",
+        "50vh": "50vh",
+      },
       fontSize: {
         base: font_base + "px",
         h1: h1 + "rem",

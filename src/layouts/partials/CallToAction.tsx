@@ -41,7 +41,7 @@ const CallToAction = ({ data }: { data: PageData }) => {
                   />
                   {data.frontmatter.button.enable && (
                     <Link
-                      className="btn btn-primary"
+                      className="bg-gradient-to-r from-primary to-third border rounded-[70px] py-3 px-8 btn btn-primary"
                       href={data.frontmatter.button.link}
                     >
                       {data.frontmatter.button.label}
