@@ -51,7 +51,7 @@ const LocationCard = ({ branch }: LocationCardProps) => {
         </Link>
         <Link
           className="p-6 text-center text-sm tracking-widest  "
-          href="/webstoreNew/services"
+          href="/contact"
         >
           Book an Appointment ({branch.location})
           <BiRightArrowAlt className="inline-block mx-2 text-[24px] text-text" />

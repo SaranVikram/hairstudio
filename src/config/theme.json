@@ -28,11 +28,23 @@
     },
     "darkmode": {
       "theme_color": {
-        "primary": "#fff",
-        "body": "#1c1c1c",
-        "border": "#3E3E3E",
-        "theme_light": "#222222",
-        "theme_dark": ""
+        "primary": "#8B5FBF",
+        "secondary": "#D6C6E1",
+        "third": "#9A73B5",
+        "body": "#F5F3F7",
+        "border": "#eaeaea",
+        "theme_light": "#f6f6f6",
+        "theme_dark": "",
+        "primary-100": "#8B5FBF",
+        "primary-200": "#61398F",
+        "primary-300": "#FFFFFF",
+        "accent-100": "#D6C6E1",
+        "accent-200": "#9A73B5",
+        "text-100": "#4A4A4A",
+        "text-200": "#878787",
+        "bg-100": "#F5F3F7",
+        "bg-200": "#E9E4ED",
+        "bg-300": "#FFFFFF"
       },
       "text_color": {
         "default": "#B4AFB6",
