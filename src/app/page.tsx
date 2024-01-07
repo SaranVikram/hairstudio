@@ -1,4 +1,3 @@
-import ContactForm from "@/components/ContactForm";
 import LocationCards from "@/partials/LocationCards";
 import ImageFallback from "@/helpers/ImageFallback";
 import { getListPage } from "@/lib/contentParser";

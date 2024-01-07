@@ -17,7 +17,7 @@ const ServicesSection = () => {
       type: "hair transplant",
       description:
         "Our specialists evaluate your hair loss pattern, discuss your goals, and determine your eligibility for the procedure. We ensure you have a clear understanding of the process and expected outcomes.",
-      link: "hair-transplant",
+      link: "hair-transplantation",
     },
     {
       id: 3,

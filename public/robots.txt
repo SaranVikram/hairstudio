@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://example.com
+Host: https://rockzhairstudio.in
 
 # Sitemaps
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://rockzhairstudio.in/sitemap.xml

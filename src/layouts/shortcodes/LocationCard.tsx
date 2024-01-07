@@ -45,7 +45,7 @@ const LocationCard = ({ branch }: LocationCardProps) => {
       <div className="flex flex-col space-y-2">
         <Link
           className="bg-gradient-to-r from-primary to-third py-4 px-6 text-xl tracking-normal text-center text-white "
-          href={`/services/${branch.location}`}
+          href={`/services`}
         >
           View Services
         </Link>
