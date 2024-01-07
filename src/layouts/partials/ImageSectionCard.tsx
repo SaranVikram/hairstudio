@@ -22,10 +22,11 @@ const ImageSectionCard = () => {
           </div>
 
           <p className="mt-5 text-sm md:text-lg font-light leading-7 text-text">
-            At Rock'z Hair Studio, we specialize in bespoke hair patch services,
-            offering a blend of style, comfort, and natural aesthetics. Our
-            expert stylists are adept at creating hair patches that seamlessly
-            match your hair for an undetectable and flawless look.
+            At Rock&apos;z Hair Studio, we specialize in bespoke hair patch
+            services, offering a blend of style, comfort, and natural
+            aesthetics. Our expert stylists are adept at creating hair patches
+            that seamlessly match your hair for an undetectable and flawless
+            look.
           </p>
         </div>
       </div>

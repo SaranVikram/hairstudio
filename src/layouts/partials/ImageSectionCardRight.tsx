@@ -19,8 +19,8 @@ const ImageSectionCardRight = () => {
             Our team specializes in customizing hair patches and wigs that offer
             an impeccable blend of natural appearance and comfort. With a deep
             understanding of various hair types and an eye for aesthetic detail,
-            they excel in crafting solutions that are tailored to each client's
-            unique needs.
+            they excel in crafting solutions that are tailored to each
+            client&apos;s unique needs.
           </p>
         </div>
       </div>
