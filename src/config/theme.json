@@ -47,9 +47,9 @@
         "bg-300": "#FFFFFF"
       },
       "text_color": {
-        "default": "#B4AFB6",
-        "dark": "#fff",
-        "light": "#B4AFB6"
+        "default": "#4A4A4A",
+        "dark": "#040404",
+        "light": "#878787"
       }
     }
   },
