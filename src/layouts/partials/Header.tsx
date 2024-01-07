@@ -47,7 +47,7 @@ const Header = () => {
         <input id="nav-toggle" type="checkbox" className="hidden" />
         <label
           htmlFor="nav-toggle"
-          className="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1"
+          className="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-dark lg:order-1"
         >
           <svg
             id="show-button"
@@ -129,7 +129,7 @@ const Header = () => {
           {navigation_button.enable && (
             <li className="mt-4 inline-block lg:hidden">
               <Link
-                className="btn btn-outline-primary btn-sm"
+                className="bg-gradient-to-r from-primary to-third border rounded-[70px] py-3 px-8 btn btn-primary btn-sm"
                 href={navigation_button.link}
               >
                 {navigation_button.label}
@@ -140,7 +140,7 @@ const Header = () => {
         <div className="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
           {settings.search && (
             <span
-              className="mr-5 inline-block border-r border-border pr-5 text-xl text-dark hover:text-primary dark:border-darkmode-border dark:text-white cursor-pointer"
+              className="mr-5 inline-block border-r border-border pr-5 text-xl text-dark hover:text-primary dark:border-darkmode-border dark:text-dark cursor-pointer"
               aria-label="search"
               data-search-trigger
             >

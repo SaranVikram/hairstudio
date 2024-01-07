@@ -53,7 +53,7 @@ const Home = () => {
               />
               <div className="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-8">
                 <Link
-                  className="bg-gradient-to-r from-primary to-third border rounded-[70px] py-3 px-8  btn btn-primary"
+                  className="bg-gradient-to-r from-primary to-third border rounded-[70px] py-3 px-8 dark:text-white btn btn-primary"
                   href="/contact"
                 >
                   Contact Us

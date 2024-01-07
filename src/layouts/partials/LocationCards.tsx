@@ -8,6 +8,7 @@ const VijayawadaBranch = {
   address:
     "DOOR NO 40-6/1-15A/1\nPARK STREET,\nREVENUE COLONY, MOGALRAJAPURAM.",
   phone: "(+91) 6303259766",
+  phone2: "(+91) 6303262452",
   googleMaps: "https://goo.gl/maps/ESVYpb9QagxaV2qM9",
   facebook: "https://www.facebook.com/rockzhairstudio/",
   instagram: "https://www.instagram.com/rockzhairstudio/",
@@ -18,6 +19,7 @@ const hydbranch = {
   address:
     "DOOR NO 40-6/1-15A/1\nPARK STREET,\nREVENUE COLONY, MOGALRAJAPURAM.",
   phone: "(+91) 6303259766",
+  phone2: "(+91) 6303262452",
   googleMaps: "https://goo.gl/maps/ESVYpb9QagxaV2qM9",
   facebook: "https://www.facebook.com/rockzhairstudio/",
   instagram: "https://www.instagram.com/rockzhairstudio/",
@@ -28,6 +30,7 @@ const vizagBranch = {
   address:
     "DOOR NO 40-6/1-15A/1\nPARK STREET,\nREVENUE COLONY, MOGALRAJAPURAM.",
   phone: "(+91) 6303259766",
+  phone2: "(+91) 6303262452",
   googleMaps: "https://goo.gl/maps/ESVYpb9QagxaV2qM9",
   facebook: "https://www.facebook.com/rockzhairstudio/",
   instagram: "https://www.instagram.com/rockzhairstudio/",

@@ -14,12 +14,15 @@ const LocationCard = ({ branch }: LocationCardProps) => {
   return (
     <div className=" bg-white shadow-lg rounded-lg mb-4 text-text ">
       <div className="flex flex-col justify-center mb-2 px-6 pt-6">
-        <div className="flex space-x-4 items-center">
-          <h2 className="text-2xl font-bold text-gray-800">
+        <div className="flex flex-col items-start space-y-2 ">
+          <h2 className="text-2xl font-bold  text-gray-800">
             {branch.location}
           </h2>
           <div className="text-primary ">
             <Link href={`tel:${branch.phone}`}>{branch.phone}</Link>
+          </div>
+          <div className="text-primary ">
+            <Link href={`tel:${branch.phone2}`}>{branch.phone2}</Link>
           </div>
         </div>
         <address className="not-italic mt-2 text-sm md:text-[18px] font-light md:leading-7 ">

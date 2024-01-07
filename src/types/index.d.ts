@@ -89,6 +89,7 @@ export type Service = {
 export type Branch = {
   location: string;
   phone: string;
+  phone2: string;
   address: string;
   googleMaps: string;
   facebook: string;

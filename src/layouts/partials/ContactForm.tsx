@@ -107,7 +107,7 @@ const ContactForm: React.FC = () => {
             {/* Estimate Budget Section */}
             <div className="row border-b border-primary py-12">
               <div className="mb-6 md:mb-0 md:col-4 lg:col-3">
-                <h3 className="  md:mt-4 ">Select Estimation</h3>
+                <h3 className="  md:mt-4 ">Select Budget</h3>
               </div>
               {/* ... Budget Buttons ... */}
               {budgetEstimates.map((budget, index) => (
